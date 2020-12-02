@@ -40,6 +40,5 @@ My name is Amit Kundu and I'm a working as an Android Developer in [E.B. Solutio
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amit517)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit517&hide=TeX&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit517&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amit517.amit517)
