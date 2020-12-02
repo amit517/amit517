@@ -6,7 +6,7 @@ My name is Amit Kundu and I'm a working as an Android Developer in [E.B. Solutio
 
 ### Catch me in 🤗
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn%20-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/amit-kundu-345a79119/)[![Gmail Badge](https://img.shields.io/badge/email-red?style=flat&logo=Gmail&logoColor=white&link=mailto:kundu.amit517@gmail.com)](mailto:kundu.amit517@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn%20-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/amit-kundu-345a79119/) [![Gmail Badge](https://img.shields.io/badge/email-red?style=flat&logo=Gmail&logoColor=white&link=mailto:kundu.amit517@gmail.com)](mailto:kundu.amit517@gmail.com)
 
 <br>
 
