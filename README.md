@@ -44,7 +44,7 @@ My name is Amit Kundu and I'm a working as an Android Developer in [E.B. Solutio
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amit517.amit517)
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amit517&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit517&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
