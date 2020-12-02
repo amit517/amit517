@@ -1,10 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <p>
 My name is Amit Kundu and I'm a working as an Android Developer in [E.B. Solutions Ltd](https://ebsbd.com/). I am a tech enthusiast and learning new technologies. 
 </p>
 
-## Catch me in 🤗
+### Catch me in 🤗
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn%20-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/amit-kundu-345a79119/)[![Gmail Badge](https://img.shields.io/badge/email-red?style=flat&logo=Gmail&logoColor=white&link=mailto:kundu.amit517@gmail.com)](mailto:kundu.amit517@gmail.com)
 
