@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Amit Kundu and I'm a working as an Android Developer in [E.B. Solutions Ltd](https://ebsbd.com/). I am a tech enthusiast and learning new technologies. 
+My name is Amit Kundu. I love to learn new technologies abd play with them. 
 
 
 ### Catch me in 🤗
