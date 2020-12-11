@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Amit Kundu. I love to learn new technologies abd play with them. 
+My name is Amit Kundu. I love to learn new technologies and play with them. 
 
 
 ### Catch me in 🤗
