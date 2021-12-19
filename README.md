@@ -2,7 +2,7 @@
 
 My name is Amit Kundu. I love to learn new technologies and play with them. 
 
-<a href="https://app.daily.dev/amit517"><img src="https://api.daily.dev/devcards/277f047f07914254a32f2afaab4799ff.png?r=2y5" width="400" alt="Amit Kundu's Dev Card"/></a>
+
 
 ### Catch me in 🤗
 
@@ -10,9 +10,13 @@ My name is Amit Kundu. I love to learn new technologies and play with them.
 
 <br>
 
-[![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amit517)](https://github.com/anuraghazra/github-readme-stats)
+  <tr>
+    <td>[![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amit517)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit517&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </td>
+    <td><a href="https://app.daily.dev/amit517"><img src="https://api.daily.dev/devcards/277f047f07914254a32f2afaab4799ff.png?r=2y5" width="200" alt="Amit Kundu's Dev Card"/></a>  </td>
+  </tr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit517&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amit517.amit517)
