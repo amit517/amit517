@@ -19,4 +19,3 @@ My name is Amit Kundu. I love to learn new technologies and play with them.
 <br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amit517.amit517)
-
