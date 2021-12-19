@@ -2,6 +2,7 @@
 
 My name is Amit Kundu. I love to learn new technologies and play with them. 
 
+<a href="https://app.daily.dev/amit517"><img src="https://api.daily.dev/devcards/277f047f07914254a32f2afaab4799ff.png?r=2y5" width="400" alt="Amit Kundu's Dev Card"/></a>
 
 ### Catch me in 🤗
 
