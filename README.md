@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kundu</h1>
 <h3 align="center">Passionate about mobile application development</h3>
 
-<p align="left"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amit517.amit517) </p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amit517.amit517)
 
 - 👯 I’m looking to collaborate on **Android Project**
 
