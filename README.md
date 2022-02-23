@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit517&" alt="amit517" /></p>
 
-<p align="right" > <a href="https://app.daily.dev/amit517"><img src="https://api.daily.dev/devcards/277f047f07914254a32f2afaab4799ff.png?r=2y5" width="200" alt="Amit Kundu's Dev Card"/></a> </p>
+<p> <a align="center" href="https://app.daily.dev/amit517"><img src="https://api.daily.dev/devcards/277f047f07914254a32f2afaab4799ff.png?r=2y5" width="200" alt="Amit Kundu's Dev Card"/></a> </p>
