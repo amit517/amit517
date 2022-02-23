@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Android Kotlin**
 
-<p align="middle" > <a href="https://app.daily.dev/amit517"><img src="https://api.daily.dev/devcards/277f047f07914254a32f2afaab4799ff.png?r=2y5" width="200" alt="Amit Kundu's Dev Card"/></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/amit517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amit517" height="30" width="40" /></a>
@@ -25,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit517&show_icons=true&locale=en" alt="amit517" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit517&" alt="amit517" /></p>
+
+<p align="center" > <a href="https://app.daily.dev/amit517"><img src="https://api.daily.dev/devcards/277f047f07914254a32f2afaab4799ff.png?r=2y5" width="200" alt="Amit Kundu's Dev Card"/></a> </p>
