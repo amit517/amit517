@@ -3,7 +3,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amit517.amit517)
 
-- 🙆‍♂️ Currently I am learning **Jetpack Compose**
+- 🙆‍♂️ Currently I am learning **IOS development**
 
 - 👯 I’m looking to collaborate on **Android Project**
 
